@@ -14,7 +14,6 @@ cuDNN 7.0.5<br />
 
 ## Citing Light-Head R-CNN
 
-If you find Light-Head R-CNN is useful in your research, pls consider citing:
 
 ```
 @article{li2017light,

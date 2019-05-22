@@ -14,6 +14,7 @@ cuDNN 7.0.5<br />
 
 ## Citing Light-Head R-CNN
 
+This implementation is based on the original Light-Head R-CNN paper.
 
 ```
 @article{li2017light,

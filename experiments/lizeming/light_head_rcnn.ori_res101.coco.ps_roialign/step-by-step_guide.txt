@@ -1,0 +1,284 @@
+#Introdution:
+- The parts used to build the computer are split into two: External and internal. 
+A tip on each step will tell you if the part is external or internal
+- Internal part: These parts ARE located on the motherboard.
+- External part: These parts ARE NOT located on the motherboard. They lie around as individual parts.
+- A green square will appear when something is detected, this is how you know you have found the correct part.
+- Adjust the distance and camera angel in every step if nothing seems to be detected.
+- Make sure that you get proper lighting.
+- Try to use the detection on several parts and chose the one that gives the 
+best results (when the green square appears the most).
+- Make sure every item is in focus. Blurred items will not be detected.
+- When you are sure the step is completed, continue to the next step.
+- Make sure the component you are filming is filling the entire screen. Being too far away is bad.
+- Put the camera closer to the cables when they are mentioned in the steps.
+- Press 'space' to go to next step/continue.
+- Press 'p' to go to the previous step.
+- Press 'q' to close the Step-By-Step guide.
+
+#Step 1: Info [Black]
+Detection of the motherboard.
+Only a few models are supported.
+This item is large, flat and looks like a big card.
+This is where all the 'internal parts' are placed.
+Click 'space' to start scanning.
+
+#Step 2: [1,2,3]
+Scanning for: Motherboard...
+
+Tips:
+- Large flat item.
+- Its shape is either a square or a rectangle.
+- Get the whole motherboard in the shot.
+
+#Step 3: Info [Black]
+The next step is detection of RAM.
+This is one of the 'external parts'.
+RAM have a large width, but short height.
+Often comes in quantities.
+
+#Step 4: [17,18]
+Scanning for: RAM (external part)...
+Supported RAM for this motherboard:
+Tips:
+- Scan all sides of your external parts.
+- Keep these in your hand or close by.
+- Scan VERY close to correctly detect the version (DDR4 or DDR3). This is important.
+
+#Step 5: [14]
+Scanning for: RAM-slot (internal part)...
+
+Tips:
+- This is where the RAM from previous step will fit.
+
+#Step 6: [Black]
+Place the RAM (step 4) in the RAM-slot (step 5)...
+Place the RAM into the RAM-slot firmly.
+Try rotating the RAM if it doesn't fit.
+Make sure the clips on each side is open before placing the RAM into the RAM-slot.
+Close the clips/pull them up so the RAM cant fall out.
+You can check if it's correctly fitted if you cannot remove the RAM by pulling it out when the clips are up.
+
+#Step 7: Info [Black]
+Find the CPU package.
+The box has often these characteristics:
+- a squared box.
+- Intel: blue or black layout.
+- Amd: black, red, orange, green or gray layout.
+This step is about looking for information regarding your external part CPU to know if it fits your motherboard or not.
+Try to get as much information about the CPU from the package before going any further.
+Specifically check the CPU package for:
+Generation/Support:
+Socket type:
+
+#Step 8: [21]
+Scanning for: CPU (external part)...
+
+Tips:
+- This item is small and its shape is square. 
+- Rotate and turn the CPU.
+- Keep this item in your hand or close by. 
+
+#Step 9: [5]
+Scanning for: CPU-socket (internal part)...
+
+Tips:
+- This socket is where the CPU will be placed later.
+
+#Step 10: Info [Black]
+Open the socket so you can see that the CPU may fit inside.
+The gray blank side should be facing up. 
+Place the CPU inside the CPU-socket you just opened, but be careful.
+When fitted correctly the CPU will fall into place and you can close the lock.
+CAUTION: 
+Placing the CPU inside the CPU-socket wrongly may cause damage to the CPU and CPU-socket.
+
+#Step 11: [22]
+Scanning for: CPU-fan (external part)...
+
+Tips:
+- It is often big, and has a fan attached to it.
+- Keep this item close by.
+
+#Step 12: [11]
+Scanning for: Fan-slot (internal part)...
+
+Tips:
+- It is placed close to the CPU-socket (the area around it)
+
+#Step 13: Info [Black]
+Place the CPU-fan (step 11) in the Fan-slot (step 12).
+Make sure the screws are pushed all the way down.
+The CPU-fan should now be on top of the CPU.
+The CPU-fan should not be moveable.
+
+#Step 14: [12]
+Scanning for: Fan power slot (internal part)...
+
+Tips:
+- These are often small rectangles on the motherboard.
+- They have 3-4 metallic rods sticking up.
+- Often white or black.
+- Often close to the CPU/CPU-fan area.
+- Might be needed to put the camera very close to the motherboard.
+- Try removing the CPU-fan you just placed if you cannot find anything, as it should be next to it.
+
+#Step 15: [23]
+Scanning for: Fan power cable (external part)...
+
+Tips:
+- This cable is attached to the CPU-fan.
+- The head of the cable is often white.
+- NOTICE: This is a cable and needs to be filmed extremely close. Make sure the item is in focus.
+- Keep this item in your hand or close by.
+
+#Step 16: Info [Black]
+Place the Fan power cable (step 15) in the Fan power slot (step 14) closest to the CPU.
+Make sure the cable is pushed all the way down, and the cable does not block the CPU-fan.
+
+#Step 17: [24]
+Scanning for: PSU (external part)...
+
+Tips:
+- A large squared item.
+- Often a fan inside of it.
+- Often a lot of cables attached to it/hanging out of it.
+
+#Step 18: [25,26]
+Scanning for: 6 and 8 pin power connectors cables for the GPU (external part)...
+
+Tips:
+- These are attached to the PSU.
+- There may be several identical cables.
+- Keep these close by, they will be used in a later step.
+
+#Step 19: [20]
+Scanning for: GPU (external part)...
+
+Tips:
+- A large card.
+- Often one or several fans on it.
+- Keep it close by for the next steps.
+
+#Step 20: [4]
+Scanning for: PCI-E x16 (internal part)...
+
+Tips:
+- There is often several of these on the motherboard.
+- The GPU is placed in these.
+
+#Step 21: Info [Black]
+Place the GPU (step 19) in the PCI-E x16 (step 20).
+Make sure the GPU is locked in place.
+
+#Step 22: [6,7]
+Scanning for: 6 and 8 pin power slots placed on the GPU(external part)...
+
+Tips:
+- These are located on the GPU you just attached to the motherboard/PCI-E x16.
+- The 6 and 8 pin power slots are on the top side of the GPU.
+- Make note of these location of the slots.
+
+#Step 23: Info [Black]
+Put the 6 and 8 pin power connectors cables (step 18) in the slots from previous step (step 22).
+If the cables does not fit, try another cable from the PSU that was detected instead.
+Press 'p' to go back to previous steps if you forgot something.
+
+#Step 24: [28]
+Scanning for: 24 pin power connector cable (external part)...
+
+Tips:
+- Attached to the PSU.
+- One of the widest cable.
+- Keep this cable in your hand or close by.
+
+#Step 25: [9]
+Scanning for: 24 pin power slot (internal part)...
+
+Tips:
+- Often placed on the of the sides of the motherboard.
+- Often black or white.
+- Make note of this slot.
+
+#Step 26: Info [Black]
+Put the 24 pin power connector cable (step 24) in the 24 pin power slot (step 25).
+Make sure the cable is attached properly.
+
+#Step 27: [27]
+Scanning for: 8 pin power connector cable for CPU (external part)...
+
+Tips:
+- Attached to the PSU.
+- This cable will be used in the next steps. Keep them close.
+
+#Step 28: [8]
+Scanning for: 8 pin power slot for CPU (internal part)
+
+Tips:
+- Similar to the 24 pin power connector slot (step 24), but smaller.
+- Often close to the CPU.
+
+#Step 29: Info [Black]
+Place the 8 pin CPU power connector cable (step 27) in the 8 pin CPU power slot (step 28).
+Make sure the cable is attached properly.
+If the cable does not fit, try other similar cables.
+
+#Step 30: [29]
+Scanning for: S-ATA cables (external parts)...
+
+Tips:
+- These are lose cables, they are not attached to any PSU or other items.
+- These cables will be used in the next steps. Keep them close.
+
+#Step 31: [10]
+Scanning for: S-ATA slot (internal part)...
+
+Tips:
+- This is the slot where the S-ATA cable would fit.
+- Often several S-ATA slots together.
+- These slots may be on the sides.
+
+#Step 32: Info [Black]
+Put the S-ATA cable (step 30) in the S-ATA slot (step 31).
+Make sure only one end of the cable is connected to the slot.
+
+#Step 33: [15,16]
+Scanning for: SSD/HDD (external part)...
+
+Tips:
+- Often a square or rectangle.
+- SSD: often light and small.
+- HDD: often heavy and big.
+
+#Step 34: [10]
+Scanning for: SSD/HDD S-ATA input (external part)...
+
+Tips:
+- It is on the side of the SSD/HDD.
+- Similar to the S-ATA slot (step 31).
+
+#Step 35: Info [Black]
+Put the other side of the S-ATA cable (step 30) from step 32 in the SSD/HDD S-ATA input (step 34).
+The S-ATA cable should be attached to a SSD/HDD and the motherboard.
+
+#Step 36: [19]
+Scanning for: SSD/HDD power cable (external part)...
+
+Tips:
+- These cables are attached to the PSU.
+- There are usually many of these.
+- Keep this cable in your hand or close by.
+
+#Step 37: [13]
+Scanning for: SSD/HDD power input (external part)...
+
+Tips:
+- It is on the side of the SSD/HDD, next to the SSD/HDD S-ATA input (step 34).
+
+#Step 38: Info [Black]
+Place the SSD/HDD power cable (step 36) in the SSD/HDD power input (step 37).
+The cables from the PSU should now be attached to SSD/HDD.
+
+#The Step-By-Step guide is now finished.
+- Press 'p' to go back to previous steps if you missed something.
+- Press 'space' or 'q' to close the guide.

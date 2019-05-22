@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/erik/Documents/light_head_rcnn-master/data/imagenet_weights/xception_model.ckpt"
+all_model_checkpoint_paths: "/home/erik/Documents/light_head_rcnn-master/data/imagenet_weights/xception_model.ckpt"

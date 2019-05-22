@@ -8,9 +8,9 @@ Cuda 9.0<br />
 cuDNN 7.0.5<br />
 
 ## Importing Backbone and Weights
-1. Download and place [res101.ckpt](https://drive.google.com/open?id=1ISGXDyg5JUUX8NrekDTyRjuwH0E9qiy2) in 'data/imagenet_weights/' <br />
-<br /><br />
-2. Download and place both [epoch_29.ckpt.data-00000-of-00001] and [epoch_29.ckpt.index] in 'output/erik/light_head_rcnn.ori_res101.coco.ps_roialign/model_dump/'  
+1. Download and place [res101.ckpt](https://drive.google.com/open?id=1ISGXDyg5JUUX8NrekDTyRjuwH0E9qiy2) in 'data/imagenet_weights/'
+
+2. Download and place both [epoch_29.ckpt.data-00000-of-00001](https://drive.google.com/open?id=1412Hyee1nGCQHvxXrHOed3haUTS7XhXv) and [epoch_29.ckpt.index](https://drive.google.com/open?id=1uDKZ9xqBlIihjLbZHNi92UEmkxyiqWM3) in 'output/erik/light_head_rcnn.ori_res101.coco.ps_roialign/model_dump/'  
 
 ## Citing Light-Head R-CNN
 

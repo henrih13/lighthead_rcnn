@@ -1,5 +1,7 @@
 # Computer Vision based Auxiliary System for Computer Assembly: System Design and Implementation
 
+## Requirements
+
 Ubuntu 18.04<br />
 Tensorflow 1.5.0<br />
 Cuda 9.0<br />

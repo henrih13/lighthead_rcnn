@@ -16,6 +16,11 @@ cuDNN 7.0.5<br />
 
 This implementation is based on the original Light-Head R-CNN paper.
 
+## Preview
+
+Youtube link:
+[Computer Vision based Auxiliary System for Computer Assembly: System Design and Implementation](https://www.youtube.com/watch?v=B1MpH66SGIM&t=41s&fbclid=IwAR0fcFn4zsqhSjGuOPEsxx1clddyYGce29BB07qYoiWKOrDSKzMTJCTAfi0)
+
 ```
 @article{li2017light,
   title={Light-Head R-CNN: In Defense of Two-Stage Object Detector},
